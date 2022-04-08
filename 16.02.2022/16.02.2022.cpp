@@ -8,5 +8,6 @@ int main()
     int* (*action)(int*, unsigned);
     action = ch(a, 10);
     print(action(a,10), 10);
+    //test
 }
 
